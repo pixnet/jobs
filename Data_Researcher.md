@@ -12,7 +12,7 @@ Research Team 介紹 - https://goo.gl/SryrIZ
 
 
 ## 必要條件 
-* Statistics Anlysis Skill
+* Statistics Analysis Skill
 * 跨領域溝通能力
 * Python基礎觀念
 
