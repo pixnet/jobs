@@ -18,9 +18,9 @@
 
 # 加分項目
 
-* Google Cloud Platform 使用經驗
-* 搜尋引擎 (如: Elasticsearch, Solr) 應用開發、搜尋結果調校經驗
-* 熟悉 Python 物件導向程式設計, Design Pattern
 * 網站前/後端/Web API 開發經驗 (使用 Python 或 PHP)
+* Google Cloud Platform 使用經驗
+* 熟悉 Python 物件導向程式設計, Design Pattern
+* 搜尋引擎 (如: Elasticsearch, Solr) 應用開發、搜尋結果調校經驗
 * NoSQL database 使用經驗，例如 MongoDB, Redis
 * Fluentd, Spark, Kafka 等使用經驗
