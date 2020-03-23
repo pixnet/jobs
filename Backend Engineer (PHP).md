@@ -1,8 +1,6 @@
 我們是技術導向的團隊，工作上採用導師教學相長制度 ， 
 鼓勵發展第二技術專長，會定期舉辦技術分享會、補助參加國內外技術研討會。 
 
-更多介紹：https://goo.gl/k4A1VQ 
-
 # Responsibilities: 
 * 開發及維護公司專案(PHP 為主) 
 * 撰寫單元測試 
@@ -15,6 +13,7 @@
 * 熟悉 網站軟體開發流程方法 
 * 熟悉 API設計與開發 (RESTful API) 
 * 熟悉 資料庫系統應用，包含 RDBMS 與 NoSQL 
+* 熟悉 PHP
 * 熟悉 Unit test 
 * 熟悉 Laravel 
 * 熟悉 Javascript 
