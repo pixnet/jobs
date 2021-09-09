@@ -9,7 +9,6 @@
 
 # 基本條件
 
-* PySpark
 * 資料工程工作經驗兩年以上
 * 熟悉 Linux 作業系統操作
 * SQL 與關聯式資料庫使用經驗
@@ -17,6 +16,8 @@
 * 良好的溝通、表達、協同合作能力
 
 # 加分項目
+
+* PySpark
 * 了解 [Lambda Architecture](https://www.wikiwand.com/en/Lambda_architecture)
 * 網站前/後端/Web API 開發經驗 (使用 Python 或 PHP)
 * Google Cloud Platform 使用經驗
